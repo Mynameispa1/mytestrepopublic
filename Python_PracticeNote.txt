@@ -1,0 +1,30 @@
+########################################################
+THIS IS PYTHON PRACTICE NOTES
+########################################################
+
+Python is open source and it compile the code line by line and hence it is called Interpreter language.
+
+
+Data Type:
+
+Every programming Languages has data types. Python data types are below
+
+String Data Type
+Numeric Data type(int, float)
+Sequence Data type (list, tupple)
+Mapping Data type
+Boolean
+
+Sytanx is important for the compiller to know what kind of Data Type is been used.
+
+Python has a programming Language has some inbuilt function.
+
+Every data type has some inbuilt function
+
+
+  
+
+
+
+
+
