@@ -12,3 +12,25 @@ git commit -m "first commit" -----------> commit
 git remote add origin https://github.com/Mynameispa1/mytestrepopublic.git  ----------> add github repository to the local machine. It is nothing but your system has to know where the github is located.
 
 git push -u origin master --------> Now push the code into your git hub repository
+
+
+Git Advantages
+--------------------------
+
+Git --> global information tracking system
+
+version control --> 10 days
+
+after 10 days --> I wanted to see what was script at 2nd day..
+
+we should always go back to previous version if something goes wrong
+
+track the changes --> through git we can understand who did that and why
+
+review the changes --> our team members should review
+
+backup and security
+
+branching --> create a branch from master, do the changes, if everything is good then proceed
+
+collabaration
