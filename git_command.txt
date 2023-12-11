@@ -1,0 +1,14 @@
+git command
+#############################
+
+If you need to push code from your local machine to your git hub repository
+
+git init------------> intialiase 
+
+git add <file name> 
+
+git commit -m "first commit" -----------> commit 
+
+git remote add origin https://github.com/Mynameispa1/mytestrepopublic.git  ----------> add github repository to the local machine. It is nothing but your system has to know where the github is located.
+
+git push -u origin master --------> Now push the code into your git hub repository

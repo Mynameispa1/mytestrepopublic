@@ -22,6 +22,8 @@ Python has a programming Language has some inbuilt function.
 Every data type has some inbuilt function
 
 
+checking
+
   
 
 
